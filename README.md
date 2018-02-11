@@ -1,5 +1,5 @@
-# face_landmarks
- Facial landmarks includes 68 face points  detected in this program using Dlib and OpenCV 3  in Python.
+# Facial Landmarks detection in Live Video Feed
+ Real time facial landmark detection in Live Video stream using DLib , Opencv3 in python programming language.
  To execute this program, shape_predictor_68_face_landmarks.dat,a pretrained model is needed in the directory where 
  this program is stored.
  
